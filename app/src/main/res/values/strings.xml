@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit 9 TF</string>
+
+
+
+    <string name="current_lifecycle_state">Current State</string>
+    <string name="default_state">Default</string>
+</resources>
